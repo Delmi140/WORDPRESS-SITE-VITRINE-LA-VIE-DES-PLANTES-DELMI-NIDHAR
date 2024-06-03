@@ -1,0 +1,1 @@
+2024/06/03 21:34:12 [error] 2956#0: *60697 directory index of "/Users/delminidhar/Local Sites/laviedesplantes/app/public/wp-content/uploads/" is forbidden, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/ HTTP/1.0", host: "laviedesplantes.local"
